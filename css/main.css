@@ -1,0 +1,73 @@
+body {
+	background-color: #f58d1e;
+	background-image: url("https://www.transparenttextures.com/patterns/subtle-grey.png");
+	font-family: 'Comfortaa', cursive;
+	color:#FFFFFF;
+}
+
+header h1,
+main h4 {
+	text-align: center;
+}
+
+header h1 {
+	margin: 5%;
+	font-weight: bold;
+}
+
+.map {
+	height: 60vh;
+}
+
+.searcher {
+	margin-top: 8%;
+}
+
+#search-btn {
+	background: #FF6600;
+	color:#FFFFFF;
+}
+
+.splash {
+	width: 100%;
+	height: 100vh;
+	background-image: url(../assets/images/food.jpg);
+	background-size: cover;
+	position:fixed;
+	z-index: 1;
+}
+
+.restaurant-container {
+	margin-top: 10vh;
+
+}
+
+.results {
+	height: 80vh;
+}
+
+.restaurant {
+	background: #FF9A66;
+}
+
+.photo-restaurant {
+	width:100%;
+	height: 35vh;
+}
+
+.modal-title,
+.nameRestaurant {
+	font-weight: bold;
+}
+
+.modal-content {
+	background-color: #FF9A66;
+}
+
+.info-restaurant {
+	margin-top: 5%;
+}
+
+.map-restaurant {
+	height: 40vh;
+}
