@@ -1,17 +1,6 @@
-# Foodmap
+# Pokemon
+## This is a mobile first application inspired by Foursquare, where the goal is to write a type of food in the search engine and then show only the restaurants that meet that feature. If you click on any restaurant, the address is displayed dynamically in Google Maps.
 
-* **Track:** _Common Core_
-* **Curso:** _Creando tu primer sitio web interactivo_
-* **Unidad:** _Producto final_
+![mobile](https://user-images.githubusercontent.com/32856616/38714689-f8f6438a-3e9c-11e8-8879-c2f2ee1e4971.png)
 
-***
-
-## Flujo de trabajo
-
-1. Linkear boostrap, jquery, css y js 
-2. Hacer maquetacion de paantalla principal de app
-3. Asignar key de tipo de comida a restaurantes
-5. Acceder a data 
-6. Hacer Dom de restaurantes
-6. Hacer view de Splash screen
-
+##Developed during Laboratoria Coding Bootcamp
